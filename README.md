@@ -1,5 +1,5 @@
 # wukong
-目前打算基于 FCC 的 Machine Learning with Python 课程（顺便翻译吧），结合官网和其他资料，进行 TensorFlow 学习和练手。
+作为 idea2app 团队 Python 培训业务探索的一部分，目前打算基于 FCC 的 Machine Learning with Python 课程（顺便翻译吧），结合官网和其他资料，进行 TensorFlow 学习和练手。欢迎大家一起来学习。
 
 
 # Refs
